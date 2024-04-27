@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: rgb(244, 244, 244);
+}
+nav{
+    background-color: rgb(20, 9, 30);
+    width: 100%;
+    height: 50px;
+ 
+}
+.container1 h1{
+   text-align: center;
+   align-items: center;
+   color: white;
+   font-size: 30px;
+   margin-top: -1pc;
+}
+.container1 input{
+   width: 15%;
+   height: 20px;
+   background-color:  rgb(20, 9, 30);
+}
+.container1 .btn1{
+   border: 1px solid gray;
+   font-size: 15px;
+   background-color:  rgb(20, 9, 30);
+   color: gray;
+   position: relative;
+   top: -2pc;
+   left: 96%;
+   
+}
+.company .pic1{
+   margin-left: 24%;
+}
+
+
+ main h1{
+    font-size: 42px;
+ }
+ main h1,h2{
+    margin: 33px 385px;  
+   
+ }
+ main button{
+    width: 510px;
+    height: 55px;
+    margin-left: 33%;
+    color: black;
+    background-color: #E4B126;
+    border:2px solid #a4790c;
+    font-size: 29px;
+   
+ }
+ main button:hover{
+    background-color: #F7E546;
+ }
+ main #img{
+   margin: 50px 380px;
+   width: 729px;
+   margin-bottom: 8px;
+   
+ }
+ main p{
+   text-align: center;
+   font-weight: 400;
+   font-size: larger;
+   color: black;
+ }
+  .companies2 {
+   background-color:#3A3C52;
+  
+   height: 250px;
+   margin-top: 25px;
+ }
+ .companies2 h1{
+   color:rgb(188, 180, 180);
+   text-align: center;
+   padding-top: 58px;
+ }
+ 
+
+ .card{
+   width: 900px;
+   height: 300px;
+   box-shadow: 5px 5px;
+   margin: 2rem auto;
+   display: flex;
+   overflow: hidden;
+ }
+ .item1 img{
+   height: 100%;
+   
+ }
+ .item2 p{
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   position: relative;
+   top: 3pc;
+ }
+
+
+
+.certificate h1{
+   
+   margin-left: 324px;
+   margin-top: 115px;
+}
+.certificate  p{
+   background-color:#D8D7D3;
+   border: 2px solid black;
+  
+   margin-top: 13px;
+    width: 143vh;
+    height: 50px;
+    margin-left: 21%;
+    padding-top: 30px;
+    text-align: start;
+    
+}
+.certificate p:hover{
+background-color: #252537;
+color: white;
+}
+.certificate button{
+   margin-top: 45px;
+}
+footer h1{
+   margin: 56px 283px;
+   font-size: 42px;
+}
+footer h2,p{
+   margin: 56px 283px;
+ 
+}
+footer button{
+   width: 510px;
+   height: 55px;
+   margin-left: 33%;
+   color: black;
+   background-color: #E4B126;
+   border:2px solid #a4790c;
+   font-size: 29px;
+}
+footer button:hover{
+   background-color: #F7E546;
+}
+.footer{
+   width: 100%;
+   background-color: rgb(244, 244, 244);
+   display: flex;
+}
+.footer .footitem1{
+   position: relative;
+   right: 15%;
+   
+}
+.footer .footitem1 p{
+   color: black;
+}
+.footer .footitem2 a{
+   position: relative;
+   right: 40%;
+   color: black;
+   top: 3pc;
+   text-decoration: none;
+}
+.footitem2 a:hover{
+   
+   text-decoration: underline;
+}
